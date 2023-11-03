@@ -22,6 +22,3 @@ Sinta-se à vontade para clonar o repositório, abrir issues, enviar pull reques
 
 Lembre-se de preencher as informações que faltam, como uma seção de "Como Usar" ou "Instalação", caso seja necessário. Este é um modelo básico que pode ser expandido com informações específicas sobre o seu aplicativo.
 Para assitir a AULA COMPLETA, [Clique aqui...](https://www.youtube.com/watch?v=Gf5VEBQQzrk)
-
- 
-![Foto do APP](https://terabox.com/s/1bgHq3Z4q3fanQD1I98tu3g)
