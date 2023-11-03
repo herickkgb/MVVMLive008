@@ -13,7 +13,7 @@ interface RetrofitService {
     companion object {
         private val retrofitService: RetrofitService by lazy {
             val retrofit = Retrofit.Builder()
-                .baseUrl("https://s3.amazonaws.com/api.ocanha.com/lista-lives.json")
+                .baseUrl("https://s3.amazonaws.com/api.ocanha.com/") // Corrigindo a URL base
                 .addConverterFactory(GsonConverterFactory.create())
                 .build()
 
@@ -23,7 +23,7 @@ interface RetrofitService {
         fun getIntance(): RetrofitService {
             return retrofitService
         }
-
     }
+
 
 }
